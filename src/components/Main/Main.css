@@ -1,0 +1,9 @@
+.main-container {
+  display: flex;
+}
+.user-details {
+  width: 70%;
+  margin-left: 25px;
+  border-right: 1px solid lightgray;
+  border-left: 4px solid black;
+}

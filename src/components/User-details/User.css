@@ -1,0 +1,21 @@
+.user-section {
+  display: flex;
+  border: 2px solid red;
+  border-radius: 10px;
+  margin: 15px 10px;
+  padding: 10px;
+}
+.user-pic {
+  margin-top: 30px;
+}
+.user-info {
+  margin-left: 20px;
+}
+.add-btn {
+  background-color: #1877f2;
+  height: 35px;
+  color: white;
+  font-weight: bold;
+  border-radius: 5px;
+  cursor: pointer;
+}
